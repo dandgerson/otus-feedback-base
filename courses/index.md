@@ -1,4 +1,4 @@
-# Otus Courses
+# Список курсов Отус
 
 * Программирование
     * Разработчик на Spring Framework
@@ -6,7 +6,7 @@
     * Разработчик Python
     * Разработчик C++
     * Разработчик Java
-    * [Разработчик JavaScript](./javascript.md)
+    * [Разработчик JavaScript](./javascript-developer/index.md)
     * Разработчик Web-разработчик на Python
     * Разработчик Java Enterprise
     * Разработчик Android
