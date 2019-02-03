@@ -6,7 +6,7 @@
     * Разработчик Python
     * Разработчик C++
     * Разработчик Java
-    * Разработчик JavaScript
+    * [Разработчик JavaScript](./javascript.md)
     * Разработчик Web-разработчик на Python
     * Разработчик Java Enterprise
     * Разработчик Android
